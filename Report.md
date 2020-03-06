@@ -39,4 +39,4 @@ Team Number:F12
    An interface defines how a function is called while implementation describes what it actually does. It is important because there are multiple implementations for a function that has been interfaced and we can choose ourselves how to implement.
 9. Screenshot of your Blynk App:
 
-    ![your image here->](img/placeholder.png)
+    ![your image here->](img/terminal.png)
